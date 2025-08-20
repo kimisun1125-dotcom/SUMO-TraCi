@@ -77,9 +77,7 @@ python tools/osmWebWizard.py
 * If you used `tools/osmWebWizard.py`, it will automatically generate the SUMO scenario.
 * The generated files will be saved under your selected directory (e.g., `data/pittsburgh/`).
 * Open the `.sumocfg` file with **sumo-gui** and click **Run** ▶️ to start the simulation.
-
 ---
-<img width="629" height="370" alt="image" src="https://github.com/user-attachments/assets/5c46ca32-fc77-4b03-aedc-e3050b7035eb" />
-
 
 ✅ Done! You now have a running SUMO simulation platform with the flexibility to choose any area from OpenStreetMap.
+https://github.com/user-attachments/assets/4e01ef28-6b31-4780-bcad-9a833614b625
