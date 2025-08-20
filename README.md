@@ -80,4 +80,5 @@ python tools/osmWebWizard.py
 ---
 
 ✅ Done! You now have a running SUMO simulation platform with the flexibility to choose any area from OpenStreetMap.
+
 https://github.com/user-attachments/assets/4e01ef28-6b31-4780-bcad-9a833614b625
