@@ -1,9 +1,4 @@
-# SUMO-TraCi
-好，那我帮你在 README 里加上一个**文件结构示例**，这样别人 clone 项目后就能一目了然地知道该把数据文件放在哪儿。下面是改进后的版本：
-
----
-
-# SUMO Simulation Platform Setup
+<img width="209" height="105" alt="image" src="https://github.com/user-attachments/assets/99ead5bc-f0d1-4a0a-ae4b-3e37a250d745" /># SUMO Simulation Platform Setup
 
 ## 1. Install SUMO
 
@@ -30,14 +25,8 @@
 
 ---
 
-## 4. Data Files
 
-* Example data files can be downloaded here:
-  👉 [sumo2022\_tutorial.zip](https://sumo.dlr.de/daily/sumo2022_tutorial.zip)
-
----
-
-## 5. Project Directory Structure
+## 4. Project Directory Structure
 
 ```bash
 SUMO-Simulation-Project/
@@ -58,7 +47,7 @@ SUMO-Simulation-Project/
 
 ---
 
-## 6. Build the Simulation Platform
+## 5. Build the Simulation Platform
 
 ### Example: Pittsburgh West East End Bridge
 
@@ -80,7 +69,7 @@ python tools/osmWebWizard.py
 
 ---
 
-## 7. Run the Simulation
+## 6. Run the Simulation
 
 * If you used `tools/osmWebWizard.py`, it will automatically generate the SUMO scenario.
 * The generated files will be saved under your selected directory (e.g., `data/pittsburgh/`).
