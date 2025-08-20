@@ -1,4 +1,4 @@
-<img width="209" height="105" alt="image" src="https://github.com/user-attachments/assets/99ead5bc-f0d1-4a0a-ae4b-3e37a250d745" /># SUMO Simulation Platform Setup
+# SUMO Simulation Platform Setup
 
 ## 1. Install SUMO
 
@@ -9,7 +9,7 @@
 
   * **sumo-gui** (graphical simulation interface)
   * **netedit** (network editing tool)
-
+<img width="209" height="105" alt="image" src="https://github.com/user-attachments/assets/99ead5bc-f0d1-4a0a-ae4b-3e37a250d745" />
 ---
 
 ## 2. Install Python
@@ -50,6 +50,9 @@ SUMO-Simulation-Project/
 ## 5. Build the Simulation Platform
 
 ### Example: Pittsburgh West East End Bridge
+<img width="240" height="377" alt="image" src="https://github.com/user-attachments/assets/b06a5ea4-3052-43bc-aeae-ff9212751af9" />
+<img width="216" height="397" alt="image" src="https://github.com/user-attachments/assets/ce884c93-00c8-4611-961f-ce4a5ff08666" />
+<img width="240" height="377" alt="image" src="https://github.com/user-attachments/assets/bc092697-8351-4d14-81be-5b5e76f9500f" />
 
 I have selected the **West East End Bridge, Pittsburgh** as the simulation region.
 
@@ -76,5 +79,7 @@ python tools/osmWebWizard.py
 * Open the `.sumocfg` file with **sumo-gui** and click **Run** ▶️ to start the simulation.
 
 ---
+<img width="629" height="370" alt="image" src="https://github.com/user-attachments/assets/5c46ca32-fc77-4b03-aedc-e3050b7035eb" />
+
 
 ✅ Done! You now have a running SUMO simulation platform with the flexibility to choose any area from OpenStreetMap.
